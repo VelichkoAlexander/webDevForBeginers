@@ -1,0 +1,16 @@
+body {
+    font-size: 22px;
+    line-height: 34px;
+  }
+  
+  header,
+  nav {
+    background-color: #fd739c;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h1,
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
