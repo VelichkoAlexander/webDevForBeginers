@@ -14,3 +14,15 @@ body {
   h2 {
     font-family: Arial, Helvetica, sans-serif;
   }
+
+  header {
+   padding: 100px 0px 50px;   
+  }
+
+  h1 {
+      margin-bottom: 10px;
+  }
+
+  .landing-section-iam {
+      padding-top: 50px;
+  }
